@@ -1,0 +1,729 @@
+{
+    "__comment__": "If there's more than one option, the first represents everything they have in common and the second the most likely to be used.",
+    "a'ight": [
+        "alright"
+    ],
+    "ain't": [
+        "not",
+        "is not",
+        "am not",
+        "are not",
+        "has not",
+        "have not",
+        "did not"
+    ],
+    "amn't": [
+        "am not"
+    ],
+    "'n'": [
+        "and"
+    ],
+    "arencha": [
+        "are not you"
+    ],
+    "aren't": [
+        "are not"
+    ],
+    "'bout": [
+        "about"
+    ],
+    "boy's": [
+        "boy",
+        "boy is",
+        "boy has"
+    ],
+    "can't": [
+        "cannot"
+    ],
+    "cap'n": [
+        "captain"
+    ],
+    "'cause": [
+        "because"
+    ],
+    "cuz": [
+        "because"
+    ],
+    "'cept": [
+        "except"
+    ],
+    "could've": [
+        "could have"
+    ],
+    "couldn't": [
+        "could not"
+    ],
+    "couldn't've": [
+        "could not have"
+    ],
+    "cuppa": [
+        "cup of"
+    ],
+    "daren't": [
+        "dare not",
+        "dare not",
+        "dared not"
+    ],
+    "daresn't": [
+        "dare not"
+    ],
+    "dasn't": [
+        "dare not"
+    ],
+    "didn't": [
+        "did not"
+    ],
+    "doesn't": [
+        "does not"
+    ],
+    "don't": [
+        "do not",
+        "do not",
+        "does not"
+    ],
+    "dunno": [
+        "do not know",
+        "do not know",
+        "does not know"
+    ],
+    "d'ye": [
+        "do you",
+        "do you",
+        "did you"
+    ],
+    "d'ya": [
+        "do you",
+        "do you",
+        "did you"
+    ],
+    "e'en": [
+        "even"
+    ],
+    "e'er": [
+        "ever"
+    ],
+    "'em": [
+        "them"
+    ],
+    "everybody's": [
+        "everybody",
+        "everybody is",
+        "everybody has"
+    ],
+    "everyone's": [
+        "everyone",
+        "everyone is",
+        "everyone has"
+    ],
+    "everything's": [
+        "everything",
+        "everything is",
+        "everything has"
+    ],
+    "finna": [
+        "fixing to"
+    ],
+    "fo'c'sle": [
+        "forecastle"
+    ],
+    "'gainst": [
+        "against"
+    ],
+    "g'day": [
+        "good day"
+    ],
+    "gimme": [
+        "give me"
+    ],
+    "girl's": [
+        "girl",
+        "girl is",
+        "girl has"
+    ],
+    "giv'n": [
+        "given"
+    ],
+    "gi'z": [
+        "give us"
+    ],
+    "gonna": [
+        "going to"
+    ],
+    "gon't": [
+        "go not"
+    ],
+    "gotta": [
+        "got to"
+    ],
+    "guy's": [
+        "guy",
+        "guy is",
+        "guy has"
+    ],
+    "hadn't": [
+        "had not"
+    ],
+    "had've": [
+        "had have"
+    ],
+    "hasn't": [
+        "has not"
+    ],
+    "haven't": [
+        "have not"
+    ],
+    "he'd": [
+        "he",
+        "he would",
+        "he had"
+    ],
+    "he'll": [
+        "he",
+        "he will",
+        "he shall"
+    ],
+    "helluva": [
+        "hell of a"
+    ],
+    "he's": [
+        "he",
+        "he is",
+        "he has"
+    ],
+    "here's": [
+        "here is"
+    ],
+    "how'd": [
+        "how",
+        "how would",
+        "how did"
+    ],
+    "howdy": [
+        "how do you",
+        "how do you do",
+        "how do you fare"
+    ],
+    "how'll": [
+        "how will"
+    ],
+    "how're": [
+        "how are"
+    ],
+    "how's": [
+        "how",
+        "how is",
+        "how has",
+        "how does"
+    ],
+    "i'd": [
+        "i",
+        "i would",
+        "i had"
+    ],
+    "i'd've": [
+        "i would have"
+    ],
+    "i'd'nt": [
+        "i would not"
+    ],
+    "i'd'nt've": [
+        "i would not have"
+    ],
+    "if'n": [
+        "if and when"
+    ],
+    "i'll": [
+        "i",
+        "i will",
+        "i shall"
+    ],
+    "i'm": [
+        "i am"
+    ],
+    "imma": [
+        "i am to",
+        "i am going to",
+        "i am about to"
+    ],
+    "i'm'o": [
+        "i am going to"
+    ],
+    "innit": [
+        "is not it"
+    ],
+    "ion": [
+        "i do not"
+    ],
+    "i've": [
+        "i have"
+    ],
+    "isn't": [
+        "is not"
+    ],
+    "it'd": [
+        "it would"
+    ],
+    "it'll": [
+        "it",
+        "it will",
+        "it shall"
+    ],
+    "it's": [
+        "it",
+        "it is",
+        "it has"
+    ],
+    "idunno": [
+        "i do not know"
+    ],
+    "kinda": [
+        "kind of"
+    ],
+    "let's": [
+        "let us"
+    ],
+    "loven't": [
+        "love not"
+    ],
+    "ma'am": [
+        "madam"
+    ],
+    "mayn't": [
+        "may not"
+    ],
+    "may've": [
+        "may have"
+    ],
+    "methinks": [
+        "i think"
+    ],
+    "mightn't": [
+        "might not"
+    ],
+    "might've": [
+        "might have"
+    ],
+    "mine's": [
+        "mine is"
+    ],
+    "mustn't": [
+        "must not"
+    ],
+    "mustn't've": [
+        "must not have"
+    ],
+    "must've": [
+        "must have"
+    ],
+    "'neath": [
+        "beneath"
+    ],
+    "needn't": [
+        "need not"
+    ],
+    "nal": [
+        "and all"
+    ],
+    "ne'er": [
+        "never"
+    ],
+    "o'clock": [
+        "of the clock"
+    ],
+    "o'er": [
+        "over"
+    ],
+    "ol'": [
+        "old"
+    ],
+    "ought've": [
+        "ought have"
+    ],
+    "oughtn't": [
+        "ought not"
+    ],
+    "oughtn't've": [
+        "ought not have"
+    ],
+    "'round": [
+        "around"
+    ],
+    "--'s--": [
+        "'s",
+        "is",
+        "has",
+        "does",
+        "us"
+    ],
+    "shalln't": [
+        "shall not"
+    ],
+    "shan'": [
+        "shall not"
+    ],
+    "shan't": [
+        "shall not"
+    ],
+    "she'd": [
+        "she",
+        "she would",
+        "she had"
+    ],
+    "she'll": [
+        "she",
+        "she will",
+        "she shall"
+    ],
+    "she's": [
+        "she",
+        "she is",
+        "she has"
+    ],
+    "should've": [
+        "should have"
+    ],
+    "shouldn't": [
+        "should not"
+    ],
+    "shouldn't've": [
+        "should not have"
+    ],
+    "somebody's": [
+        "somebody",
+        "somebody is",
+        "somebody has"
+    ],
+    "someone's": [
+        "someone",
+        "someone is",
+        "someone has"
+    ],
+    "something's": [
+        "something",
+        "something is",
+        "something has"
+    ],
+    "so're": [
+        "so are"
+    ],
+    "so's": [
+        "so",
+        "so is",
+        "so has"
+    ],
+    "so've": [
+        "so have"
+    ],
+    "that'll": [
+        "that",
+        "that will",
+        "that shall"
+    ],
+    "that're": [
+        "that are"
+    ],
+    "that's": [
+        "that",
+        "that is",
+        "that has"
+    ],
+    "that'd": [
+        "that",
+        "that would",
+        "that had"
+    ],
+    "there'd": [
+        "there",
+        "there would",
+        "there had"
+    ],
+    "there'll": [
+        "there",
+        "there will",
+        "there shall"
+    ],
+    "there're": [
+        "there are"
+    ],
+    "there's": [
+        "there",
+        "there is",
+        "there has"
+    ],
+    "these're": [
+        "these are"
+    ],
+    "these've": [
+        "these have"
+    ],
+    "they'd": [
+        "they",
+        "they would",
+        "they had"
+    ],
+    "they'll": [
+        "they",
+        "they will",
+        "they shall"
+    ],
+    "they're": [
+        "they",
+        "they are",
+        "they were"
+    ],
+    "they've": [
+        "they have"
+    ],
+    "this's": [
+        "this",
+        "this is",
+        "this has"
+    ],
+    "those're": [
+        "those are"
+    ],
+    "those've": [
+        "those have"
+    ],
+    "'thout": [
+        "without"
+    ],
+    "'til": [
+        "until"
+    ],
+    "'tis": [
+        "it is"
+    ],
+    "to've": [
+        "to have"
+    ],
+    "tryna": [
+        "trying to"
+    ],
+    "'twas": [
+        "it was"
+    ],
+    "'tween": [
+        "between"
+    ],
+    "'twere": [
+        "it were"
+    ],
+    "w'all": [
+        "we all"
+    ],
+    "w'at": [
+        "we at"
+    ],
+    "wanna": [
+        "want to"
+    ],
+    "wasn't": [
+        "was not"
+    ],
+    "we'd": [
+        "we",
+        "we would",
+        "we had",
+        "we did"
+    ],
+    "we'd've": [
+        "we would have"
+    ],
+    "we'll": [
+        "we",
+        "we will",
+        "we shall"
+    ],
+    "we're": [
+        "we are"
+    ],
+    "we've": [
+        "we have"
+    ],
+    "weren't": [
+        "were not"
+    ],
+    "whatcha": [
+        "what you",
+        "what are you doing",
+        "what about you"
+    ],
+    "what'd": [
+        "what did"
+    ],
+    "what'll": [
+        "what",
+        "what will",
+        "what shall"
+    ],
+    "what're": [
+        "what",
+        "what are",
+        "what were"
+    ],
+    "what's": [
+        "what",
+        "what is",
+        "what has",
+        "what does"
+    ],
+    "what've": [
+        "what have"
+    ],
+    "when's": [
+        "when",
+        "when is",
+        "when has"
+    ],
+    "where'd": [
+        "where did"
+    ],
+    "where'll": [
+        "where",
+        "where will",
+        "where shall"
+    ],
+    "where're": [
+        "where are"
+    ],
+    "where's": [
+        "where",
+        "where is",
+        "where has",
+        "where does"
+    ],
+    "where've": [
+        "where have"
+    ],
+    "which'd": [
+        "which",
+        "which would",
+        "which had"
+    ],
+    "which'll": [
+        "which",
+        "which will",
+        "which shall"
+    ],
+    "which're": [
+        "which are"
+    ],
+    "which's": [
+        "which",
+        "which is",
+        "which has"
+    ],
+    "which've": [
+        "which have"
+    ],
+    "who'd": [
+        "who",
+        "who would",
+        "who had",
+        "who did"
+    ],
+    "who'd've": [
+        "who would have"
+    ],
+    "who'll": [
+        "who",
+        "who will",
+        "who shall"
+    ],
+    "who're": [
+        "who are"
+    ],
+    "who's": [
+        "who",
+        "who is",
+        "who has",
+        "who does"
+    ],
+    "who've": [
+        "who have"
+    ],
+    "why'd": [
+        "why did"
+    ],
+    "why're": [
+        "why are"
+    ],
+    "why's": [
+        "why",
+        "why is",
+        "why has",
+        "why does"
+    ],
+    "willn't": [
+        "will not"
+    ],
+    "won't": [
+        "will not"
+    ],
+    "wonnot": [
+        "will not"
+    ],
+    "would've": [
+        "would have"
+    ],
+    "wouldn't": [
+        "would not"
+    ],
+    "wouldn't've": [
+        "would not have"
+    ],
+    "y'ain't": [
+        "you not",
+        "you are not",
+        "you have not",
+        "you did not"
+    ],
+    "y'all": [
+        "you all"
+    ],
+    "y'all'd've": [
+        "you all would have"
+    ],
+    "y'all'd'n't've": [
+        "you all would not have"
+    ],
+    "y'all're": [
+        "you all are"
+    ],
+    "y'all'ren't": [
+        "you all are not"
+    ],
+    "y'at": [
+        "you at"
+    ],
+    "yes'm": [
+        "yes madam",
+        "yes ma'am"
+    ],
+    "y'know": [
+        "you know"
+    ],
+    "yessir": [
+        "yes sir"
+    ],
+    "you'd": [
+        "you",
+        "you would",
+        "you had"
+    ],
+    "you'll": [
+        "you",
+        "you will",
+        "you shall"
+    ],
+    "you're": [
+        "you are"
+    ],
+    "you've": [
+        "you have"
+    ],
+    "when'd": [
+        "when did"
+    ]
+}
