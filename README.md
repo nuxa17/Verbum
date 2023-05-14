@@ -14,6 +14,8 @@ Powered by:
 - [tkScrolledFrame](https://github.com/bmjcode/tkScrolledFrame)
 - [pyinstaller](https://github.com/pyinstaller/pyinstaller)
 
+Created by Juan Pablo Corella ([nuxa17](https://github.com/nuxa17))
+and Alessandro de Armas ([adearmas21](https://github.com/adearmas21)).
 # Building
 Create a new virtual environment with Python 3.11.
 
