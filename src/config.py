@@ -13,11 +13,12 @@ import subprocess
 OS_SYSTEM = platform.system()
 OS_VERSION = platform.version()
 
+FROZEN = getattr(sys, 'frozen', False)
 #***********
 #*  Paths  *
 #***********
 
-if getattr(sys, 'frozen', False):
+if FROZEN:
     # we are running in a bundle
     BUNDLE_DIR = sys._MEIPASS
 

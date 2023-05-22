@@ -1,7 +1,12 @@
 import traceback
 from tkinter.messagebox import showerror
 
+from config import FROZEN, OS_SYSTEM
 from controller.controller import Controller
+
+if FROZEN and OS_SYSTEM == "Windows":
+    import pyi_splash
+    pyi_splash.close()
 
 
 def main():
