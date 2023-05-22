@@ -41,7 +41,7 @@ RES_DIR = os.path.join(BUNDLE_DIR, 'res')
 PATTERNS_FILE = os.path.join(CONFIG_DIR, 'default.json')
 CONTRACTIONS_FILE = os.path.join(CONFIG_DIR, 'contractions.json')
 TAGGER_FILE = 'taggers/maxent_treebank_pos_tagger/english.pickle'
-SETTINGS_FILE = os.path.join(EXEC_PATH, 'verbum.ini')
+SETTINGS_FILE = os.path.join(EXEC_PATH, 'verbum.json')
 
 ICON_FILE = os.path.join(RES_DIR, 'logo.ico')
 MANUAL_FILE = os.path.join(RES_DIR, 'manual.pdf')
